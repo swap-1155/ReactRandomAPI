@@ -1,0 +1,11 @@
+.gifcontainer {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5px;
+}
+
+.gifitem {
+  flex-basis: 19%;
+}
